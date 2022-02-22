@@ -7,4 +7,4 @@
 
 <h2 align="center"> Some Two's fact for Twos-Day </h2>
 
-- 
+- Today's date 22/2/22 is a plandromic number and also an ambigram. The only other date like this is 11/1/11.
